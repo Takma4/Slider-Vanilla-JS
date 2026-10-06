@@ -277,7 +277,7 @@ Slider
 .slide:nth-child(4) {
   left: 300%;
 }
-.slide {
+/* .slide {
   transform: translateX(-100%);
-}
+} */
 /* negative value moves to left */
